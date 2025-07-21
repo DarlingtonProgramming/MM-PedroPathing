@@ -2,7 +2,7 @@
 
 Fork of [MeepMeep](https://github.com/NoahBres/MeepMeep) that supports [PedroPathing](https://github.com/brotherhobo/10158-Centerstage), developed by 10158 Scott's Bots.
 
-*P.S. very unstable*
+*P.S. very unstable*, deprecated.
 
 <img src="/images/readme/screen-recording.gif" width="500" height="500"/>
 
